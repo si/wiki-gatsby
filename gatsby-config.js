@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Si Jobling's Wiki`,
+    title: `Si-Wiki`,
     description: `Using Gatsby starter kit to setup a wiki for Si Jobling`,
     author: `@si`,
   },
